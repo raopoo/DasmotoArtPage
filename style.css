@@ -1,0 +1,45 @@
+h1{
+    font-family:Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align:center;
+    background-image: url(./images/pattern.jpeg);
+    margin-top: 70px;
+}
+#brushes{
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    text-align:left;
+    background-color: mediumspringgreen;
+    margin-top: 70px;
+}
+h3{
+    margin-top: 30px;
+}
+span{
+    font-family:Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+#frames{
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    text-align:left;
+    background-color: lightcoral;
+    margin-top: 70px;
+}
+#paints{
+    font-family:Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    text-align:left;
+    background-color: skyblue;
+    margin-top: 70px;
+
+}
